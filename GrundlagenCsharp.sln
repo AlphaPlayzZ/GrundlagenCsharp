@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_uebungen_Verzweigungen", "1_uebungen_Verzweigungen\1_uebungen_Verzweigungen.csproj", "{0096138F-E2AD-48F0-8826-3D77217E87C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Uebung_KA_2", "2_Uebung_KA_2\2_Uebung_KA_2.csproj", "{AD3945D6-B8A6-4AEC-AE95-CBA46A154088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Uebung_KA_2", "2_Uebung_KA_2\2_Uebung_KA_2.csproj", "{AD3945D6-B8A6-4AEC-AE95-CBA46A154088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do-While Schleifen", "Do-While Schleifen\Do-While Schleifen.csproj", "{D0D9FE3D-5E93-440E-94CA-F0C8C9A45A06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AD3945D6-B8A6-4AEC-AE95-CBA46A154088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3945D6-B8A6-4AEC-AE95-CBA46A154088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3945D6-B8A6-4AEC-AE95-CBA46A154088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D9FE3D-5E93-440E-94CA-F0C8C9A45A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D9FE3D-5E93-440E-94CA-F0C8C9A45A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D9FE3D-5E93-440E-94CA-F0C8C9A45A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D9FE3D-5E93-440E-94CA-F0C8C9A45A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
